@@ -1,0 +1,14 @@
+C:\dev\Udemy\CSharp\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.exe
+C:\dev\Udemy\CSharp\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.deps.json
+C:\dev\Udemy\CSharp\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.runtimeconfig.json
+C:\dev\Udemy\CSharp\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.dll
+C:\dev\Udemy\CSharp\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.pdb
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.AssemblyInfo.cs
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.dll
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\refint\MinhaCalculadora.dll
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.pdb
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.genruntimeconfig.cache
+C:\dev\Udemy\CSharp\MinhaCalculadora\obj\Debug\net7.0\ref\MinhaCalculadora.dll
